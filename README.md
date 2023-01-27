@@ -10,7 +10,7 @@
 
 ## Capturas del juego
 
-![alt text]()
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapCamaraAra%C3%B1a.jpg)
 
 
 
