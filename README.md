@@ -6,7 +6,7 @@
       
 ## Enlace al video del juego
 
-      https://discord.com/channels/1026499824486461470/1026499825094639692/1068602053221425306
+      https://drive.google.com/file/d/1NvElwIFCMd0AVhG1y_pH40UhOucu6pSK/view?usp=share_link
 
 ## Capturas del juego
 
