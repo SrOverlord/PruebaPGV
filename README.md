@@ -6,7 +6,7 @@
       
 ## Enlace al video del juego
 
-      [link]:https://drive.google.com/file/d/1NvElwIFCMd0AVhG1y_pH40UhOucu6pSK/view?usp=share_link
+      [I'm an inline-style link](https://drive.google.com/file/d/1NvElwIFCMd0AVhG1y_pH40UhOucu6pSK/view?usp=share_link)
 
 ## Capturas del juego
 
