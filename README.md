@@ -10,8 +10,11 @@
 
 ## Capturas del juego
 
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/capMenuPrincipal.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/capMapa.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/capResearch.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapMainGame.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapPauseMode.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapExplosion.png)
+![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapCamaraCa%C3%B1on.png)
 ![alt text](https://github.com/SrOverlord/PruebaPGV/blob/FinalFinal/ScreenShots/CapCamaraAra%C3%B1a.jpg)
-
-
-
-
